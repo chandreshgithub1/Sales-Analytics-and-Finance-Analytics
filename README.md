@@ -7,7 +7,7 @@ Link to [Report Presentation]()
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report]()_ 
+    **1.** Create a _[customer performance report](https://github.com/chandreshgithub1/Sales-Analytics-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets]()_
 
