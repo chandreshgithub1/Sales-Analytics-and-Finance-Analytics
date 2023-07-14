@@ -1,15 +1,15 @@
 # Sales Report & Finance Report for AtliQ Hardware
 
-Link to [Report Presentation]()
+Link to [Report Presentation](Paste your link here)
 
 ## Sales Report :
 
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/chandreshgithub1/Sales-Analytics-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](Paste your link here)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance vs sales targets](https://github.com/chandreshgithub1/Sales-Analytics-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance vs sales targets](Paste your link here)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -22,9 +22,9 @@ Link to [Report Presentation]()
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]()_ & _[Months]()_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](Paste your link here)_ & _[Months](Paste your link here)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets]()_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](Paste your link here)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
